@@ -5,7 +5,7 @@ Assignment: ex2
 *******************/
 #include <stdio.h>
 
-/*
+
 ///////////////////////
 ///Seconde Game stuff
 #define NUM_OF_BRANDS 5
@@ -36,8 +36,9 @@ void printMenu(){
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
-*/
+
 int main() {
+    /*
     int Equal = 0;
     int sumcheer = 0;
     int sumsmile = 0;
@@ -463,8 +464,9 @@ int main() {
             }
         }
     }
+    */
 //Version 1.0.0
-/*
+
 ////////////////////////////////////////////////////////////
 ///Seconde Game
  int cube[DAYS_IN_YEAR][NUM_OF_BRANDS][NUM_OF_TYPES] = {0};
@@ -679,7 +681,7 @@ int main() {
         scanf("%d", &choice2);
     }
 
-    printf("Goodbye!\n"); */
+    printf("Goodbye!\n");
 
 
 
