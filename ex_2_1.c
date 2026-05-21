@@ -233,7 +233,7 @@ int main() {
             printf("\n");
         }
         else if(choice == 6) {  // Festival of Laughter
-            printf("Enter a smile and cheer number : \n");
+            printf("Enter a smile and cheer number: \n");
             char Phrase[1000];
             //we need the user to give us his input and to reEnter it if its not in a certin style for that we need a while loop
 
@@ -431,7 +431,7 @@ int main() {
             }
 
             int maxnumber = 0;
-            printf("Enter the maximum number of the festival:\n");
+            printf("Enter maximum number for the festival:\n");
             scanf("%d", &maxnumber);
             while (maxnumber < 0) {
                 printf("Only positive maximum number is allowed, please try again:\n");
