@@ -5,7 +5,7 @@ Assignment: ex2
 *******************/
 #include <stdio.h>
 
-
+/*
 ///////////////////////
 ///Seconde Game stuff
 #define NUM_OF_BRANDS 5
@@ -36,8 +36,7 @@ void printMenu(){
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
-
-
+*/
 int main() {
     int Equal = 0;
     int sumcheer = 0;
